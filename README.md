@@ -38,7 +38,7 @@
    }
    ```
    
-For more information, please see the [example folder](https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection/tree/main/BscScanner.Extensions.DependencyInjection).
+For more information, please see the [example folder](https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection/tree/nuget/BscScanner.Extensions.DependencyInjection.Test).
 
 ## How to contribute
 
