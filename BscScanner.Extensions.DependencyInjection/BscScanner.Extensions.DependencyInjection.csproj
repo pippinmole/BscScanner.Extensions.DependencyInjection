@@ -2,6 +2,14 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <PackageVersion>0.1.0</PackageVersion>
+        <Authors>pippin_mole</Authors>
+        <Description>BscScanner extensions for Microsoft.Extensions.DependencyInjection </Description>
+        <PackageProjectUrl>https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection</RepositoryUrl>
+        <PackageTags>bscscan,crypto,api,wrapper,.net,dependency injection, di</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
