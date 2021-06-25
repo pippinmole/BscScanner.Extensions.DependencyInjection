@@ -7,7 +7,7 @@
 
 ## How to use
 
-1. Install the [Nuget](https://www.nuget.org/packages/BscScanner) package
+1. Install the [Nuget](https://www.nuget.org/packages/BscScanner.Extensions.DependencyInjection) package
     ```cli
     Install-Package BscScanner.Extensions.DependencyInjection
     ```
