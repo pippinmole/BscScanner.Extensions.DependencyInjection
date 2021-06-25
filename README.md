@@ -37,6 +37,8 @@
         }
    }
    ```
+   
+For more information, please see the [example folder](https://github.com/pippinmole/BscScanner.Extensions.DependencyInjection/tree/main/BscScanner.Extensions.DependencyInjection).
 
 ## How to contribute
 
