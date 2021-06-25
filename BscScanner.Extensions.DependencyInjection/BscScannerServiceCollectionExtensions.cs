@@ -1,8 +1,8 @@
 ﻿using System;
-using Microsoft.Extensions.DependencyInjection;
+using BscScanner;
 
-namespace BscScanner.Extensions.DependencyInjection {
-    public static class ServiceCollectionExtensions {
+namespace Microsoft.Extensions.DependencyInjection {
+    public static class BscScannerServiceCollectionExtensions {
 
         public static IServiceCollection AddBscScanner(this IServiceCollection services, Action<BscScanClientOptions> options) {
             var opt = new BscScanClientOptions();
